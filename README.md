@@ -11,4 +11,4 @@ Steps to run SparesChat -
 2. Extract Chats Directory and set this directory in your local environment (LAMP Recommended).
 3. Create database namely "chats".
 4. Now, run migration inside the directory (eg. php artisan migrate -m).
-5 Now ChatSpares is ready to use.
+5. Now SparesChat is ready to run.
